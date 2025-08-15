@@ -1,1 +1,3 @@
-GPT Series user impact – folders (Dec 2024), recursive prompts (Mar–May 2025).
+# Insert — GPT Series User Impact
+
+_(Full content pending paste from master draft — see local archive for source.)_

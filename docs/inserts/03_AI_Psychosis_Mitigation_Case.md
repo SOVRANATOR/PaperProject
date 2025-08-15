@@ -1,1 +1,3 @@
-Mitigating AI “psychosis”/hallucinations – lived case, RAG/FRAKL mitigations.
+# Insert — AI Psychosis Mitigation Case
+
+_(Full content pending paste from master draft — see local archive for source.)_

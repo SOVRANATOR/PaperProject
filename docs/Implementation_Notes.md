@@ -1,4 +1,3 @@
 # Implementation Notes
-- Workspace: OneDrive repo + GitHub remote
-- Repo hygiene: .gitignore, MIT license, noreply email
-- Future: CR-OSM, CR-GPT as separate repos
+
+_(Full content pending paste from master draft — see local archive for source.)_
